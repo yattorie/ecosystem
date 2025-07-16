@@ -3,6 +3,7 @@
 !.gitignore
 !src/
 !src/**
+!bat.bat
 
 HELP.md
 target/
