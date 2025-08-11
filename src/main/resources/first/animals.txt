@@ -1,0 +1,4 @@
+Hare (herbivore)
+Deer (herbivore)
+Wolf (carnivore)
+Bear (omnivore)
