@@ -29,7 +29,7 @@ Simulate species interactions, track changes in populations and resources, and e
    ```
 3. Run the application:
    ```bash
-   mvn exec:java -Dexec.mainClass="com.example.ecosystem.Main"
+   mvn exec:java -Dexec.mainClass="com.orlovandrei.ecosystem.App"
    ```
    or for Windows:
    ```bat

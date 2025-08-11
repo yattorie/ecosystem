@@ -28,7 +28,7 @@
    ```
 3. Запустите приложение:
    ```bash
-   mvn exec:java -Dexec.mainClass="com.example.ecosystem.Main"
+   mvn exec:java -Dexec.mainClass="com.orlovandrei.ecosystem.App"
    ```
    или для Windows:
    ```bat
